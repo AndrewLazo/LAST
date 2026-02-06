@@ -7,5 +7,7 @@ public interface test
         hello
             
             add this last man standing
+            
+            asdasdasd
     }
 }
